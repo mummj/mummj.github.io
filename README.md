@@ -1,5 +1,5 @@
 <html>
-<body style="background-color: light-blue;">
+<body style="background-color:blue;">
 <header>
 <h1 style="text-align:center; color:yellow;">My First Page</h1>
 <h3 style="text-align:center; color:yellow;">This is a page about me</h3>
