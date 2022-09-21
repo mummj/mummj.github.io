@@ -7,7 +7,7 @@
 <main>
 <h3 style="text-align:center;">Mr. Mumms Hobbies</h3>
 <ul style="text-align:center;">
-<li style="text-align:center;">Playing Golf</li>
+<li style="text-align:center; list-style:none;">Playing Golf</li>
 <li style="text-align:center;">Coaching Football</li>
 <li style="text-align:center;">Coaching Basketball</li>
 <li style="text-align:center;">Playing with kids</li>
