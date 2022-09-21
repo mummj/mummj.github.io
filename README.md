@@ -6,11 +6,11 @@
 </header>
 <main>
 <h3 style="text-align:center;">Mr. Mumms Hobbies</h3>
-<ul style="text-align:center; list-style:none">
-<li>Playing Golf</li>
-<li>Coaching Football</li>
-<li>Coaching Basketball</li>
-<li>Playing with kids</li>
+<ul>
+<li style="text-align:center;">Playing Golf</li>
+<li style="text-align:center;">Coaching Football</li>
+<li style="text-align:center;">Coaching Basketball</li>
+<li style="text-align:center;">Playing with kids</li>
 </ul>
 <p style="width:400px; margin:auto;">I have a number of hobbies that I like to do. Most of them center around coaching and sports as well as my kids. Those are a few things that I like to do when I am not working.</p>
 <h3 style="text-align:center;">Mr. Mumms Family</h3>
