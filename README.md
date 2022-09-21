@@ -3,6 +3,7 @@
 <header>
 <h1 style="text-align:center; color:yellow;">My First Page</h1>
 <h3 style="text-align:center; color:yellow;">This is a page about me</h3>
+<img src="cc.jpg"/>
 </header>
 <main>
 <h3 style="text-align:center;">Mr. Mumms Hobbies</h3>
