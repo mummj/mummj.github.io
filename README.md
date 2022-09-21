@@ -1,5 +1,10 @@
 <html>
-<body style="background-color:teal;">
+  <style>
+    body{
+    background-color:light blue;
+    }
+  </style>
+<body>
 <header>
 <h1>My First Page</h1>
 <h3>This is a page about me</h3>
