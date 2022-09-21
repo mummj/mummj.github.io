@@ -1,3 +1,4 @@
+<html>
 <body>
 <header>
 <h1>My First Page</h1>
@@ -16,3 +17,11 @@
 <p>I am married with 3 daughters that are 1, 3, and 4. My wife teaches life science at Crook County High School and coaches track. My girls love to dance, play sports, and go to parks. They like school and are just starting in pre-school. They love to color and read books as well as do arts and crafts at school. </p>
 <footer><a href="https://github.com/mummj">My GitHub Profile</a></footer>
 </body>
+  <style>
+    body{
+      background-color:teal;
+    }
+    h1{
+      text-align:center;
+    }
+  </html>
