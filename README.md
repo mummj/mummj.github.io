@@ -6,7 +6,7 @@
 </header>
 <main>
 <h3 style="text-align:center;">Mr. Mumms Hobbies</h3>
-<ul>
+<ul style="text-align:center;">
 <li>Playing Golf</li>
 <li>Coaching Football</li>
 <li>Coaching Basketball</li>
